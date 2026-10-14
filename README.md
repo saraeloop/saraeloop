@@ -15,6 +15,4 @@ My research is in AI governance: making agent execution traceable, replayable, a
 
 Alongside it, I shipped [Prism](https://www.npmjs.com/package/@synthesisengineering/prism), a native HTML-in-Canvas runtime for interfaces that behave like environments; [depgraph-cli](https://github.com/synthesiseng/depgraph-cli), an npm dependency scanner that flags behavioral anomalies instead of matching signatures; and [gitrole](https://docs.gitrole.dev), which switches your entire Git identity in one command. I'm currently building [pixipix](https://github.com/pixipixhq/pixipix). Tiny poses in, tidy pixels out.
 
-I write about how engineering is changing → [The Bottleneck Moved. You're Training for the Wrong One.](https://dev.to/saraeloop)
-
 When I'm not building, I'm usually taking apart hardware I bought "just to see," or negotiating desk space with my cat, Poppy.
