@@ -3,7 +3,8 @@
     <a href="https://saraeloop.com">me</a> .
     <a href="https://synthesis.engineering">studio</a> .
     <a href="https://dev.to/saraeloop">writing</a> .
-    <a href="https://x.com/saraeloop">tweets</a>
+    <a href="https://x.com/saraeloop">tweets</a> .
+    <a href="https://instaram.com/saraeloop">insta</a>
   </samp>
 </p>
 
